@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Patience.App/Patience.App.csproj" Id="70a35c91-214c-4171-99c9-fa48815b813b" />
+  <Project Path="Patience.Core/Patience.Core.csproj" Id="47f88393-e417-43c7-baa2-32d94f937416" />
+</Solution>
